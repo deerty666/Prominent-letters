@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deerty666.github.io/Prominent-letters/sitemap.xml
